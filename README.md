@@ -28,7 +28,7 @@
 
 * What specific problem is the company or project trying to solve?
     
-    They are trying to pivot the 'e' of e-sports back to the physical world to focus on 'empowering kids and adults to play more, move more and have fun together.' Utilizing iOS (iPhone and iPad) hardware, you setup the device where it can see the court, hoop and player it is trying to coach, the app does the rest.
+    They are trying to pivot the *'e'* of e-sports back to the physical world to focus on 'empowering kids and adults to play more, move more and have fun together.' Utilizing iOS (iPhone and iPad) hardware, you setup the device where it can see the court, hoop and player it is trying to coach, the app does the rest.
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
 
